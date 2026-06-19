@@ -4,9 +4,9 @@ Este repositorio contiene el desarrollo del **Proyecto Final** para el curso de 
 
 ## 👥 Integrantes (Grupo 5)
 * Avelyn García — *(GitHub: @AvyG)*
-* ignacio hidalgo — *(GitHub: @usuario2)*
+* Ignacio Hidalgo — *(GitHub: @IgHB27)*
 * Sergio Rebolledo — *(GitHub: @sergiorebolledo)*
-* [Nombre Integrante 4] — *(GitHub: @usuario4)*
+* Alejandro Gómez — *(GitHub: @OrPhery1)*
 * [Nombre Integrante 5] — *(GitHub: @usuario5)*
 * [Nombre Integrante 6] — *(GitHub: @usuario6)*
 
